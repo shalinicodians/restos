@@ -1,0 +1,36 @@
+body{
+	padding: 0px;
+	margin: 0px
+}
+@media only screen and (min-width: 690px){
+	.navbar-nav{
+    margin-left: 300px
+	}
+	
+	.content{
+		margin: 70px 
+	}
+	.cards {
+		margin-left: 150px
+	}
+	.heading{
+		margin-top: 100px
+	}
+	.three_col{
+		padding-left:200px;
+		padding-right: 200px; 
+	}
+	.under_line{
+		margin-left: 150px
+	}
+	.gallery{
+		margin-left: 100px;
+		margin-right: 100px
+	}
+	/*.line1{
+		margin-left:670px 
+	}
+	.text-center{
+		margin-left: 660px
+	}*/
+}
